@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil 👋🏼 
+## welcome to my profile👋🏼 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-melo-b397182a1/t)
