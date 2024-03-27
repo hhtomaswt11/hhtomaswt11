@@ -7,7 +7,7 @@
 
 
 
-\![hhtomaswt11 GitHub stats](https://github-readme-stats.vercel.app/api?username=hhtomaswt11&show_icons=true&theme=transparent)
+![hhtomaswt11 GitHub stats](https://github-readme-stats.vercel.app/api?username=hhtomaswt11&show_icons=true&theme=transparent)
 
 
 ### Skills 🤖
