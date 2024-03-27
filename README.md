@@ -24,9 +24,3 @@
 </div><br/>
 
 
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=200 align="center" src="https://streak-stats.demolab.com?user=hhtomaswt11&theme=shadow-green&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
