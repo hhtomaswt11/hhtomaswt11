@@ -12,10 +12,12 @@
 
 <div style="display: inline_block"><br/>
 
+<a href = "https://www.haskell.org/"> <img align = "haskell" alt ="html5" src="https://camo.githubusercontent.com/379443979dfe4fb710a5596ecda6a7ae9a1cf0608702b98128f620f6f4a623cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861736b656c6c2d3565353038363f7374796c653d666f722d7468652d6261646765266c6f676f3d6861736b656c6c266c6f676f436f6c6f723d7768697465"/> </a> 
 <a href= "https://www.cprogramming.com/" > <img align = "c" alt ="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a> 
 <a href = "https://www.java.com/pt-BR/"> <img align = "java" alt ="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </a> 
 <a href = "https://www.mysql.com/"> <img align = "mysql" alt ="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a> 
 <a href = "https://www.python.org/"> <img align = "python" alt ="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> </a> 
+
 
 
 </div><br/>
