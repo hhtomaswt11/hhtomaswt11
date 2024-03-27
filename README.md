@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Tomás</h1> --> 
-<h1 align="center"><strong><u><span style="font-size: 1.2em;">Hi 👋, I'm Tomás</span></u></strong></h1>
+ <h1 align="center">Hi 👋, I'm Tomás</h1> 
+<!-- <h1 align="center"><strong><u><span style="font-size: 1.2em;">Hi 👋, I'm Tomás</span></u></strong></h1> --> 
 
 <h4 align="center"><strong><span style="font-size: larger;">Currently in the second year of Software Engineering | Universidade do Minho</span></strong></h4>
 
