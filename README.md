@@ -6,9 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ttoomasmeloo11/)
 
 
-
-![hhtomaswt11 GitHub stats](https://github-readme-stats.vercel.app/api?username=hhtomaswt11&show_icons=true&theme=transparent)
-
+<!--       ![hhtomaswt11 GitHub stats](https://github-readme-stats.vercel.app/api?username=hhtomaswt11&show_icons=true&theme=transparent)      -->
 
 ### Skills 🤖
 
