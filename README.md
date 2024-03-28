@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomás</h1>
+<h1 align="center">hi 👋, i am Tomás</h1>
 
 
 <h4 align="center">Currently in the second year of Software Engineering | Universidade do Minho</h4>
