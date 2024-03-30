@@ -16,9 +16,9 @@
         <a href="https://gitlab.com/hhtomaswt11" target="_blank">
             <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
         </a>
-        <a href="https://www.instagram.com/ttoomasmeloo11/" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
+      <!--  <a href="https://www.instagram.com/ttoomasmeloo11/" target="_blank"> -->
+       <!--     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> -->
+       <!--  </a> --> 
     </div>
 
 <div align="center"><br/>
