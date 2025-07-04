@@ -11,9 +11,6 @@ University of Minho (UMinho), Braga, Portugal
         
 2022 – 2025
 
-    180 ECTS | 3 years | Full-time
-
-    Location: Gualtar Campus, Braga
 
 
 <div align="center">
