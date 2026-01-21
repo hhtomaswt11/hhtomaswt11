@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Tomás+Melo;i'm+20+years+old;Currently+studying+in+University+of+Minho;Master's+Degree+in+Artificial+Intelligence;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Tomás+Melo;i'm+21+years+old;Currently+studying+in+University+of+Minho;Master's+Degree+in+Artificial+Intelligence;)](https://git.io/typing-svg)
 
 
 <h4 align="center">Bachelor's Degree in Software Engineering
