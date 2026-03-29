@@ -12,6 +12,8 @@ University of Minho (UMinho), Braga, Portugal
 2022 – 2025
 
 
+Currently pursuing MSc in Artificial Intelligence
+
 
 <div align="center">
         <a href="https://www.linkedin.com/in/tom%C3%A1s-melo-b397182a1/" target="_blank">
