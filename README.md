@@ -27,9 +27,7 @@ Currently pursuing MSc in Artificial Intelligence
        <!--  </a> --> 
     </div>
 
-<div align="center"><br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=hhtomaswt11&show_icons=true&theme=tokyonight" alt="hhtomaswt11's GitHub stats">
-</div>
+
 
  <!--  <div align="center">
   <h3> Skills 🤖</h3>
